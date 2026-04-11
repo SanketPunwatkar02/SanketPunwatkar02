@@ -16,7 +16,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sanket-punwatkar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:sanketpunwatkar02@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-  <a href="htttps://www.x.com/sanket_p06"><img src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x"></a>
+  <a href="htttps://www.x.com/sanket_p06"><img src="https://img.shields.io/badge/X.com-black?style=for-the-badge&logo=x"></a>
+  <a href="https://ieee-collabratec.ieee.org/app/p/SanketPunwatkar1168880"><img src="https://img.shields.io/badge/IEEE-blue?style=for-the-badge&logo=ieee"></a>
   <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"></a>
 </p>
 
@@ -35,25 +36,34 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-
+<p align='left-center'">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+</p>
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
+<p align='left-center'">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+</p>
 
 ### ⚙️ Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge)
-
+<p align='left-center'">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" />
+</p>
 ### ☁️ Cloud & Tools
-![Render](https://img.shields.io/badge/Render-purple?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
+<p align='left-center'">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" style="background-color:white; padding:5px; border-radius:10px;" />
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="50" style="background-color:white; padding:5px; border-radius:10px;" />
+<img src="https://avatars.githubusercontent.com/u/62367781?s=200&v=4" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+</p>
 
----
 
 ## 🚀 Featured Projects
 
@@ -95,12 +105,11 @@
 
 ---
 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sanketpunwatkar02&theme=tokyonight&no-frame=true&row=1&column=6"/> </p>
 ## 🔥 Current Focus
 
 - 🚀 Building scalable backend systems  
-- ☁️ Cloud deployment & architecture  
-- 🧠 Preparing for GSoC  
+- ☁️ Cloud deployment & architecture   
 - 📈 Improving DSA & system design  
 
 ---
