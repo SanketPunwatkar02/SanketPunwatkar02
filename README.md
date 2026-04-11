@@ -1,10 +1,13 @@
+<!-- ===================== HEADER ===================== -->
 <h1 align="center">Hi 👋, I'm Sanket Punwatkar</h1>
-<h3 align="center">CSE Undergraduate | Secretary IEEE CS | Full-Stack Developer | System Design | AI & Cloud</h3>
+<h3 align="center">🚀 Full-Stack Developer | System Design | AI & Cloud | IEEE CS Secretary</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanket-punwatkar/">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
-  <a href="mailto:sanketpunwatkar02@gmail.com">Email</a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;System+Design+Enthusiast;Cloud+%2B+AI+Learner;Building+Real+World+Projects&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
