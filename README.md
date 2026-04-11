@@ -11,6 +11,15 @@
 </p>
 
 ---
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanket-punwatkar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:sanketpunwatkar02@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"></a>
+</p>
+
+---
 
 ## 🚀 About Me
 
@@ -18,8 +27,7 @@
 - 🧠 Strong interest in **System Design & Scalable Applications**  
 - 💻 Building **real-world full-stack systems**  
 - ☁️ Exploring **Cloud + AI integrations**  
-- 🏆 Secretary at IEEE Computer Society  
-- 🎯 Goal: Contribute to **GSoC & impactful tech products**
+- 🏆 Secretary at IEEE Computer Society
 
 ---
 
@@ -85,7 +93,8 @@
 </p>
 
 ---
-
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/> </p>
 ## 🔥 Current Focus
 
 - 🚀 Building scalable backend systems  
