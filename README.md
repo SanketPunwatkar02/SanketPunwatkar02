@@ -58,7 +58,7 @@
 </p>
 ### ☁️ Cloud & Tools
 <p align='left-center'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" style="background-color:white; padding:5px; border-radius:10px;" />
+<img src="https://worldvectorlogo.com/logo/github-icon-2" height="50" style="background-color:white" />
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="50" style="background-color:white; padding:5px; border-radius:10px;" />
 <img src="https://avatars.githubusercontent.com/u/62367781?s=200&v=4" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
