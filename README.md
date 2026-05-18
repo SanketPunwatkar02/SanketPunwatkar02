@@ -116,7 +116,7 @@ philosophy: "Build systems that solve real problems. Ship fast. Iterate."
 |---|---|
 | **Secretary — IEEE Computer Society** | Leading CS chapter operations & community events |
 | **AI Prompting Competition Organizer** | Designed & ran 3-round competition for 50+ participants |
-| **Pull Shark Achievement** | Consistent open-source contribution via pull requests |
+| **Exhibition & Hackathon Winner** | Won Several Competitions in technical domain |
 | **Team Coordination** | Cross-functional event management & peer mentorship |
 
 ---
