@@ -6,10 +6,6 @@
 
 <div align="center">
 
-# 🚀 Sanket Punwatkar
-
-### Full-Stack Developer • System Design • AI & Cloud
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Building+systems+that+scale+%F0%9F%9A%80;Full-Stack+%7C+System+Design+%7C+AI+%26+Cloud;IEEE+CS+Secretary+%F0%9F%8F%86;CSE+Undergrad+%40+Nagpur" />
 
 </div>
