@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="./assets/banner.gif" width="100%"/>
+
+</div>
 
 <div align="center">
 
