@@ -1,16 +1,16 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sanket%20Punwatkar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20System%20Design%20%7C%20AI%20%26%20Cloud&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
-
-</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Building+systems+that+scale+%F0%9F%9A%80;Full-Stack+%7C+System+Design+%7C+AI+%26+Cloud;IEEE+CS+Secretary+%F0%9F%8F%86;CSE+Undergrad+%40+Nagpur)](https://github.com/SanketPunwatkar02)
+# 🚀 Sanket Punwatkar
+
+### Full-Stack Developer • System Design • AI & Cloud
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Building+systems+that+scale+%F0%9F%9A%80;Full-Stack+%7C+System+Design+%7C+AI+%26+Cloud;IEEE+CS+Secretary+%F0%9F%8F%86;CSE+Undergrad+%40+Nagpur" />
 
 </div>
 
 ---
+
 
 ## 👨‍💻 About Me
 
@@ -130,6 +130,9 @@ philosophy: "Build systems that solve real problems. Ship fast. Iterate."
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanketPunwatkar02&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9" width="60%"/>
 
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=SanketPunwatkar02&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SanketPunwatkar02&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
