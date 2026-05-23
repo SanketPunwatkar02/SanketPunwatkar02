@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D0C6EE&center=true&vCenter=true&width=600&height=60&lines=Building+systems+that+scale+%F0%9F%9A%80;Full-Stack+%7C+System+Design+%7C+AI+%26+Cloud;IEEE+CS+Secretary+%F0%9F%8F%86;CSE+Undergrad+%40+Nagpur" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D0C6EE&center=true&vCenter=true&width=600&height=60&lines=Building+systems+that+scale+%F0%9F%9A%80;Full-Stack+%7C+System+Design+%7CAI+%26+Cloud;IEEE+CS+Secretary+%F0%9F%8F%86;CSE+Undergrad+%40+Nagpur" />
 
 </div>
 
@@ -67,6 +67,16 @@ philosophy: "Build systems that solve real problems. Ship fast. Iterate."
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+
+### 📊 Business & Data Analytics
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-5C2D91?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
