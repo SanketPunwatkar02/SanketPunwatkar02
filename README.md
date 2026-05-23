@@ -18,7 +18,7 @@
 ```yaml
 name: Sanket Punwatkar
 location: Nagpur, India 🇮🇳
-role: Full-Stack Developer & CSE Undergrad
+role: Full-Stack Developer, CSE Undergrad & Data Analyst
 focus:
   - Scalable backend systems & microservices
   - Real-time applications & system design
